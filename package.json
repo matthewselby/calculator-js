@@ -2,7 +2,7 @@
   "name": "calculator-js",
   "version": "1.0.0",
   "description": "A simple calculator created in Vanilla JS for practice.",
-  "main": "script.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
